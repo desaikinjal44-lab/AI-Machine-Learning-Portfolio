@@ -23,5 +23,7 @@ This portfolio showcases projects I have completed throughout my AI and Machine 
 
 
 An AI chatbot built using Mizou that helps users recognize signs of stress through an interactive quiz while promoting healthy coping strategies.
+➡️ **[View Artifact 1 – MindMate Stress Recognition Quiz Chatbot](mindmate.md)**
+
 
 ➡️ More project details will be added here.
