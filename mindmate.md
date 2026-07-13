@@ -39,4 +39,4 @@ This project demonstrates my ability to apply AI and design thinking to solve a 
 
 Built using **Mizou.com**
 
-Try MindMate Chatbot: https://mizou.com/preview-bot?ID=148686
+Try MindMate Chatbot: (https://mizou.com/preview-bot?ID=148686)
