@@ -39,4 +39,4 @@ This project demonstrates my ability to apply AI and design thinking to solve a 
 
 Built using **Mizou.com**
 
-(Add my chatbot link here.)
+(https://mizou.com/preview-bot?ID=148686)
