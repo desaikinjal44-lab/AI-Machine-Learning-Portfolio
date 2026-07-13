@@ -1,7 +1,7 @@
 
 ## Welcome to My AI & Machine Learning Portfolio
 
-Hello! I'm Kinjal Desai, an aspiring AI and Data Analytics professional passionate about using artificial intelligence and data analytics to solve real-world problems.
+Hello! I'm *Kinjal Desai*, an aspiring AI and Data Analytics professional passionate about using artificial intelligence and data analytics to solve real-world problems.
 
 This portfolio showcases projects I have completed throughout my AI and Machine Learning coursework, demonstrating my skills in generative AI, chatbot development, data analysis, and user-centered design.
 
