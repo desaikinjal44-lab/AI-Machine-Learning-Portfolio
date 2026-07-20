@@ -32,10 +32,7 @@ The project followed a structured analytical approach:
 
 ## Value Proposition
 
-This project demonstrates my understanding of core AI concepts and my ability to analyze, compare, and communicate technical topics in a clear and organized manner.
+This artifact demonstrates my ability to evaluate emerging AI technologies, synthesize information from multiple sources, and present technical concepts in a structured and business-focused manner. It reflects skills that are essential for data analysts, including research, analytical thinking, technical communication, and translating complex topics into actionable insights.
 
-
-
-**Machine Learning vs. Deep Learning: Real-World Applications**
-
+## Report
 **[📄 View Machine Learning vs. Deep Learning](2.3 KD.pdf)**
