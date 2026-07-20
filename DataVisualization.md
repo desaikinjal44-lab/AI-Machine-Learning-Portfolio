@@ -35,4 +35,4 @@ This project demonstrates my understanding of core AI concepts and my ability to
 
 **Machine Learning vs. Deep Learning: Real-World Applications**
 
-[View Artifact 2 – Machine Learning vs. Deep Learning Report](2.3%20KD.pdf)
+**[📄 View Machine Learning vs. Deep Learning](2.3 KD.pdf)**
