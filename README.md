@@ -24,7 +24,7 @@ This portfolio highlights a collection of AI and Machine Learning projects that 
 
 ### MindMate: Stress Recognition Quiz Chatbot
 
-An AI chatbot built using Mizou that helps users recognize signs of stress through an interactive quiz while promoting healthy coping strategies.
+Developed an AI-powered chatbot using Mizou that delivers an interactive stress assessment, promotes mental wellness, and demonstrates the application of conversational AI and user-centered design to solve a real-world problem.
 ➡️ **[MindMate Stress Recognition Quiz Chatbot](mindmate)**
 
 ### Machine Learning vs. Deep Learning: Real-World Applications
