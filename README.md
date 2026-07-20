@@ -23,7 +23,7 @@ This portfolio showcases projects I have completed throughout my AI and Machine 
 
 
 An AI chatbot built using Mizou that helps users recognize signs of stress through an interactive quiz while promoting healthy coping strategies.
-➡️ **[View Artifact 1 – MindMate Stress Recognition Quiz Chatbot](mindmate)**
+➡️ **[View MindMate Stress Recognition Quiz Chatbot](mindmate)**
 
 
 
@@ -42,5 +42,5 @@ This project compares Machine Learning and Deep Learning using real-world exampl
 
 In this project, I compared Machine Learning and Deep Learning using two real-world applications: email spam detection and image recognition. I explained why machine learning is more suitable for structured problems like spam detection, while deep learning performs better for complex tasks such as image recognition. This project strengthened my understanding of AI concepts and improved my ability to evaluate and communicate technical solutions.
 
-**[📄 View Artifact 2 – Machine Learning vs. Deep Learning Report](2.3 KD.pdf)**
+**[📄 View Machine Learning vs. Deep Learning](2.3 KD.pdf)**
 
