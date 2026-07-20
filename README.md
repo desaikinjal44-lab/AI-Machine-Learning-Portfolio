@@ -1,31 +1,31 @@
 
 ## Welcome to My AI & Machine Learning Portfolio
 
-Hello! I'm **Kinjal Desai**, an aspiring AI and Data Analytics professional passionate about using artificial intelligence and data analytics to solve real-world problems.
+Hello! I'm **Kinjal Desai**, a Business Analyst and Data Analytics professional with a passion for leveraging artificial intelligence, machine learning, and data-driven insights to solve complex business problems. I enjoy transforming data into actionable insights and exploring innovative AI solutions that improve decision-making, automate processes, and enhance user experiences.
 
-This portfolio showcases projects I have completed throughout my AI and Machine Learning coursework, demonstrating my skills in generative AI, chatbot development, data analysis, and user-centered design.
+This portfolio highlights a collection of AI and Machine Learning projects that demonstrate my expertise in generative AI, chatbot development, data analytics, data visualization, and user-centered solution design. Each project reflects my analytical approach, problem-solving mindset, and commitment to applying emerging technologies to real-world business challenges.
 
-## Skills
+## Core Skills
 
-- Artificial Intelligence
-- Generative AI
+- Artificial Intelligence (AI)
 - Machine Learning
-- Business Analytics
+- Generative AI
+- Business & Data Analytics
+- Data Visualization (Power BI & Tableau)
 - Chatbot Development
-- Data Analysis
+- Prompt Engineering
+- Data Analysis & Reporting
 - Design Thinking
+- Research & Technical Documentation
+- Problem Solving
+- User-Centered Solution Design
 
 ## Projects
 
 ### MindMate: Stress Recognition Quiz Chatbot
 
-
-
-
 An AI chatbot built using Mizou that helps users recognize signs of stress through an interactive quiz while promoting healthy coping strategies.
 ➡️ **[MindMate Stress Recognition Quiz Chatbot](mindmate)**
-
-
 
 ### Machine Learning vs. Deep Learning: Real-World Applications
 
