@@ -23,9 +23,11 @@ For this project, I:
 
 ## Tools Used
 
-- ChatGPT
-- Microsoft Word
-- Online research resources
+- **ChatGPT** – Assisted with idea generation and content refinement.
+- **Microsoft Word** – Used to structure, edit, and format the final report.
+- **Microsoft Power BI** – Referenced to understand business intelligence capabilities, dashboard design, and data visualization best practices.
+- **Tableau** – Referenced to evaluate interactive visualization features, dashboard functionality, and data storytelling techniques.
+- **GitHub Pages** – Used to publish and present the artifact as part of my professional portfolio.
 
 ## Value Proposition
 
