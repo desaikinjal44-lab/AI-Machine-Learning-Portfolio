@@ -29,7 +29,7 @@ An AI chatbot built using Mizou that helps users recognize signs of stress throu
 
 ### Machine Learning vs. Deep Learning: Real-World Applications
 
-This project compares Machine Learning and Deep Learning using real-world examples. It demonstrates my understanding of how different AI approaches are applied to solve different types of problems.
+Comparison of Machine Learning and Deep Learning by applying these techniques on real-life cases. It shows my understanding about the application of various AI methodologies to solve specific problems.
 
 **[📄 View Machine Learning vs. Deep Learning](2.3 KD.pdf)**
 
