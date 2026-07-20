@@ -17,7 +17,7 @@ This portfolio showcases projects I have completed throughout my AI and Machine 
 
 ## Projects
 
-### MindMate – Stress Recognition Quiz Chatbot
+### MindMate: Stress Recognition Quiz Chatbot
 
 
 
