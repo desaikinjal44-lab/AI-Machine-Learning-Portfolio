@@ -23,13 +23,13 @@ This portfolio showcases projects I have completed throughout my AI and Machine 
 
 
 An AI chatbot built using Mizou that helps users recognize signs of stress through an interactive quiz while promoting healthy coping strategies.
-➡️ **[View MindMate Stress Recognition Quiz Chatbot](mindmate)**
+➡️ **[MindMate Stress Recognition Quiz Chatbot](mindmate)**
 
 
 
 ### Machine Learning vs. Deep Learning: Real-World Applications
 
 Comparison of Machine Learning and Deep Learning by applying these techniques on real-life cases. It shows my understanding about the application of various AI methodologies to solve specific problems.
-
+➡️ **[Machine Learning vs. Deep Learning](DataVisualization)**
 **[📄 View Machine Learning vs. Deep Learning](2.3 KD.pdf)**
 
