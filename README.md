@@ -37,4 +37,4 @@ A comprehensive comparison of Machine Learning and Deep Learning, supported by r
 
 This artifact presents a concise timeline of the evolution of artificial intelligence and machine learning, highlighting the key breakthroughs, AI winters, and technological innovations that transformed AI from a research discipline into a foundational technology powering modern industries.
 
-➡️ **[AI & ML Timelines](ai-ml timeline)**
+➡️ **[AI & ML Timelines](ai-mltime)**
