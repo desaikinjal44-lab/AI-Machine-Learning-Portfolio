@@ -38,6 +38,7 @@ The timeline was developed through a structured research and design process:
 
 Rather than presenting isolated historical events, this timeline connects major technological, academic, and industry milestones to illustrate the broader evolution of AI. It provides context for understanding how foundational research, computing advances, and practical applications collectively shaped today's AI landscape.
 
-## Chatbot
+## Report
+**[📄 View AI & ML Timeline](2.3 KD.pdf)**
 
 
