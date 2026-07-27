@@ -30,5 +30,13 @@ Developed an AI-powered chatbot using Mizou that delivers an interactive stress 
 ### Machine Learning vs. Deep Learning: Real-World Applications
 
 A comprehensive comparison of Machine Learning and Deep Learning, supported by real-world examples that demonstrate how different AI approaches can be applied to improve decision-making, automation, and predictive analytics.
+
 ➡️ **[Machine Learning vs. Deep Learning](DataVisualization)**
 
+### AI & ML Timelines
+
+### **Description**
+
+This artifact presents a concise timeline of the evolution of artificial intelligence and machine learning, highlighting the key breakthroughs, AI winters, and technological innovations that transformed AI from a research discipline into a foundational technology powering modern industries.
+
+➡️ **[AI & ML Timelines](ai-ml timeline)**
