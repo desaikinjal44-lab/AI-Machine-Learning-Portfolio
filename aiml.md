@@ -38,7 +38,6 @@ The timeline was developed through a structured research and design process:
 
 Rather than presenting isolated historical events, this timeline connects major technological, academic, and industry milestones to illustrate the broader evolution of AI. It provides context for understanding how foundational research, computing advances, and practical applications collectively shaped today's AI landscape.
 
-## Report
-**[📄 View AI & ML Timeline]()**
-
+## Presentation
+📊 [View AI & ML Timeline Presentation](AI%20%26%20ML%20Timeline%20-%20Kinjal%20Desai%20(3).pptx)
 
