@@ -8,34 +8,36 @@ The AI & ML Timeline presents a comprehensive overview of the evolution of artif
 
 To research, analyze, and present the historical development of artificial intelligence and machine learning through a visually engaging timeline that demonstrates how advances in algorithms, computing power, and data have transformed AI into a foundational technology.
 
+## Description
+
+This artifact provides a chronological view of AI's evolution, covering foundational concepts, the AI winters, the emergence of machine learning and deep learning, and the rise of large language models and generative AI. It illustrates how decades of research, innovation, and technological progress have driven AI's adoption across industries.
+
 ## Audience
 
-This project is intended for hiring managers, technical leaders, educators, and professionals interested in artificial intelligence, conversational AI, and human-centered technology. It showcases practical AI implementation and the ability to develop user-focused digital solutions.
+This artifact is intended for hiring managers, technical leaders, educators, students, and professionals interested in artificial intelligence, machine learning, data analytics, and emerging technologies. It demonstrates the ability to research, synthesize, and communicate complex technical concepts effectively.
 
 ## Process
 
-The chatbot was developed using the Design Thinking methodology to ensure the solution addressed real user needs throughout the development lifecycle.
+The timeline was developed through a structured research and design process:
 
-- **Empathize** – Identified common challenges individuals face in recognizing and managing stress.
-- **Define** – Established the core problem and outlined user requirements for the chatbot.
-- **Ideate** – Explored conversation flows, assessment questions, and response strategies.
-- **Prototype** – Designed and built the chatbot using Mizou's AI platform.
-- **Test** – Evaluated the chatbot through multiple user interactions and refined responses to improve usability and conversation quality.
+- **Research** – Reviewed course materials and credible industry sources to identify major AI milestones.
+- **Analyze** – Evaluated the significance of key breakthroughs, AI winters, and technological advancements.
+- **Organize** – Structured events into a logical chronological timeline.
+- **Design** – Created a visually engaging presentation using Microsoft PowerPoint.
+- **Refine** – Reviewed and improved the content for clarity, accuracy, and professional presentation.
 
 ## Tools Used
 
-- **Mizou** – Developed and deployed the AI chatbot.
-- **ChatGPT** – Assisted with conversation design, prompt engineering, and content refinement.
-- **STORM AI** – Supported idea generation, research, and chatbot planning.
-- **Generative AI** – Used to develop conversational responses and improve the overall user experience.
-- **GitHub Pages** – Published the project as part of my AI and Machine Learning portfolio.
+- **Microsoft PowerPoint** - Designed and presented the visual timeline using professional layouts and graphics.
+- **ChatGPT** - Assisted with organizing research findings, refining content, and improving clarity and structure.
+- **YouTube** - Provided historical context and insights into the evolution of artificial intelligence.
+- **IEEE Computer Society** – Served as a primary technical reference for AI concepts, milestones, and emerging trends.
+- **Our World in Data** – Provided data-driven research and historical analysis to validate key events and industry developments.
 
 ## Value Proposition
 
-This project demonstrates my ability to apply artificial intelligence, design thinking, and conversational UX principles to solve a real-world problem. It highlights skills in AI solution design, prompt engineering, user experience optimization, problem-solving, and the development of practical applications that deliver meaningful value to end users.
+Rather than presenting isolated historical events, this timeline connects major technological, academic, and industry milestones to illustrate the broader evolution of AI. It provides context for understanding how foundational research, computing advances, and practical applications collectively shaped today's AI landscape.
 
 ## Chatbot
 
-Built using **Mizou.com**
 
-[Try MindMate Chatbot](https://mizou.com/preview-bot?ID=148686)
