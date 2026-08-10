@@ -40,5 +40,4 @@ This artifact presents a concise timeline of the evolution of artificial intelli
 ### Data Challenge Scenarios Coach: Interactive Machine Learning Data Challenges
 
 Explored real-world machine learning challenges involving missing data, imbalanced datasets, and concept drift through an interactive AI coaching activity. This artifact demonstrates critical thinking, model evaluation, data preparation, and business-focused decision-making.
-
 ➡️ **[Data Challenge Scenarios Coach](coach.md)**
