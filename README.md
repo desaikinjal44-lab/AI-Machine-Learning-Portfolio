@@ -36,3 +36,9 @@ A comprehensive comparison of Machine Learning and Deep Learning, supported by r
 
 This artifact presents a concise timeline of the evolution of artificial intelligence and machine learning, highlighting the key breakthroughs, AI winters, and technological innovations that transformed AI from a research discipline into a foundational technology powering modern industries.
 ➡️ **[AI & ML Timelines](aiml)**
+
+### Data Challenge Scenarios Coach: Interactive Machine Learning Data Challenges
+
+Explored real-world machine learning challenges involving missing data, imbalanced datasets, and concept drift through an interactive AI coaching activity. This artifact demonstrates critical thinking, model evaluation, data preparation, and business-focused decision-making.
+
+➡️ **[Data Challenge Scenarios Coach](coach.md)**
