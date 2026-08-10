@@ -40,4 +40,3 @@ SchoolAI. (2026). *Data Challenge Scenarios Coach: Interactive Machine Learning 
 Géron, A. (2022). *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow* (3rd ed.). O'Reilly Media.
 
 Provost, F., & Fawcett, T. (2013). *Data Science for Business: What You Need to Know About Data Mining and Data-Analytic Thinking*. O'Reilly Media.
-
