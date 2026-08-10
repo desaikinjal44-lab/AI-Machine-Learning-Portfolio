@@ -24,16 +24,20 @@ This portfolio highlights a collection of AI and Machine Learning projects that 
 
 ### MindMate: Stress Recognition Quiz Chatbot
 
-Developed an AI-powered chatbot using Mizou that delivers an interactive stress assessment, promotes mental wellness, and demonstrates the application of conversational AI and user-centered design to solve a real-world problem.➡️ **[MindMate Stress Recognition Quiz Chatbot](mindmate)**
+Developed an AI-powered chatbot using Mizou that delivers an interactive stress assessment, promotes mental wellness, and demonstrates the application of conversational AI and user-centered design to solve a real-world problem.
+➡️ **[MindMate Stress Recognition Quiz Chatbot](mindmate)**
 
 ### Machine Learning vs. Deep Learning: Real-World Applications
 
-A comprehensive comparison of Machine Learning and Deep Learning, supported by real-world examples that demonstrate how different AI approaches can be applied to improve decision-making, automation, and predictive analytics.➡️ **[Machine Learning vs. Deep Learning](DataVisualization)**
+A comprehensive comparison of Machine Learning and Deep Learning, supported by real-world examples that demonstrate how different AI approaches can be applied to improve decision-making, automation, and predictive analytics.
+➡️ **[Machine Learning vs. Deep Learning](DataVisualization)**
 
 ### AI & ML Timelines
 
-This artifact presents a concise timeline of the evolution of artificial intelligence and machine learning, highlighting the key breakthroughs, AI winters, and technological innovations that transformed AI from a research discipline into a foundational technology powering modern industries.➡️ **[AI & ML Timelines](aiml)**
+This artifact presents a concise timeline of the evolution of artificial intelligence and machine learning, highlighting the key breakthroughs, AI winters, and technological innovations that transformed AI from a research discipline into a foundational technology powering modern industries.
+➡️ **[AI & ML Timelines](aiml)**
 
 ### Data Challenge Scenarios Coach: Interactive Machine Learning Data Challenges
 
-Explored real-world machine learning challenges involving missing data, imbalanced datasets, and concept drift through an interactive AI coaching activity. This artifact demonstrates critical thinking, model evaluation, data preparation, and business-focused decision-making.➡️ **[Data Challenge Scenarios Coach](coach.md)**
+Explored real-world machine learning challenges involving missing data, imbalanced datasets, and concept drift through an interactive AI coaching activity. This artifact demonstrates critical thinking, model evaluation, data preparation, and business-focused decision-making.
+➡️ **[Data Challenge Scenarios Coach](coach.md)**
