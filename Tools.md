@@ -41,4 +41,4 @@ The artifact was developed through a structured research and evaluation process:
 This artifact demonstrates more than an understanding of AI functionality. It shows the ability to evaluate how technology aligns with business needs, operational priorities, and user expectations. By connecting AI applications with productivity, automation, service quality, and decision support, the analysis provides a practical perspective on responsible and value-driven AI adoption.
 
 ## Presentation
-📊 [View AI Tools Presentation](ChatGPT_Commercial_AI_Scouting_Professional (1) (3).pptx)
+📊 **[View AI Tools Presentation](ChatGPT_Commercial_AI_Scouting_Professional%20%281%29%20%283%29.pptx)**
