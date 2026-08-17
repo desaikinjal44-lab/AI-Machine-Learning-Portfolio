@@ -45,4 +45,4 @@ Explored real-world machine learning challenges involving missing data, imbalanc
 ### AI Tools: Commercial Applications
 
 This artifact explores how AI tools create commercial value across education, marketing, and software development. It demonstrates how AI improves productivity, automates routine tasks, supports faster decision-making, and enhances user experiences.
-➡️ **[AI Tools: Commercial Applications](AITools)**
+➡️ **[AI Tools: Commercial Applications](Tools.md)**
